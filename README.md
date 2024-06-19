@@ -10,6 +10,7 @@
 ### Customer Data
 - **Customer Footfall**: Number of customers visiting the restaurant each day.
 - **Customer Feedback**: Ratings and reviews from customers, potentially linked to specific time periods.
+- **Customer creditials**: Name, phone, age, gender.
 
 ### Reservation Data
 - **Bookings**: Number of reservations made and fulfilled each day.
